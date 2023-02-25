@@ -1,5 +1,4 @@
 ﻿using StackExchange.Redis;
-using System.Runtime.InteropServices;
 
 ConfigurationOptions connectionConfiguration = new()
 {
